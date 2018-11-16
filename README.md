@@ -1,2 +1,2 @@
-# tezos-reward-distributer
-New repository is tezos-reward-distributor
+# tezos-reward-distributer Moved
+New repository name is tezos-reward-distributor
